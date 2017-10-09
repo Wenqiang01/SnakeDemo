@@ -1,3 +1,4 @@
+//This is added by A2
 var isAlive = true;
 var snakes = [];
 var egg = null;
