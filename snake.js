@@ -1,5 +1,3 @@
-
-//This is added by A1 A2 for testing git commit
 var isAlive = true;
 var snakes = [];
 var egg = null;
